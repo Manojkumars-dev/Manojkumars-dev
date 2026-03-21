@@ -15,4 +15,3 @@ Hi, I’m Manoj Kumar S 👋<br>I am a curious and self-driven Information Scien
 ---
 [![](https://visitcount.itsvg.in/api?id=Manojkumars-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
