@@ -13,6 +13,6 @@ Hi, I'm Manoj Kumar S 👋<br>I am a curious and self-driven Information Science
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojkumars-dev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manojkumars-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Manojkumars-dev&icon=6&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
