@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Manoj Kumar S 👋<br>I am a curious and self-driven Information Science Engineering (ISE) student focused on building real-world projects in software development and cloud computing.<br>🎓 Currently pursuing my Bachelor’s degree in Engineering<br>💻 Interested in Web Development, Cloud Computing & Software Engineering<br>🚀 Always eager to learn new technologies and build real-world projects<br>📚 Currently improving my coding and problem-solving skills<br>🌱 Exploring tools like Git, GitHub, and modern web technologies
 
-
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkumars-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smanojkumar8310@gmail.com) 
 
