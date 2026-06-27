@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Manoj Kumar S 👋<br>I am a curious and self-driven Information Science Engineering (ISE) student focused on building real-world projects in software development and cloud computing.<br>🎓 Completed Bachelor of Engineering (B.E.) in Information Science and Engineering.<br>💻 Interested in Web Development, Cloud Computing & Software Engineering<br>🚀 Always eager to learn new technologies and build real-world projects<br>📚 Currently improving my coding and problem-solving skills<br>🌱 Exploring tools like Git, GitHub, and modern web technologies 
+Hi, I’m Manoj Kumar S 👋<br>I am a curious and self-driven Information Science Engineering (ISE) student focused on building real-world projects in software development and cloud computing.<br>🎓 Completed Bachelor of Engineering (B.E.).<br>💻 Interested in Web Development, Cloud Computing & Software Engineering<br>🚀 Always eager to learn new technologies and build real-world projects<br>📚 Currently improving my coding and problem-solving skills<br>🌱 Exploring tools like Git, GitHub, and modern web technologies 
 
  
 ## 🌐 Socials:
